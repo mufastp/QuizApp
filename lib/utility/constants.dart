@@ -1,0 +1,1 @@
+enum ProviderStatus{LOADING,COMPLETED}
